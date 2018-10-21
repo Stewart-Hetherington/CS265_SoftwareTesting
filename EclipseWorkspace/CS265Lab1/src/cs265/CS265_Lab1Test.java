@@ -3,6 +3,8 @@ package cs265;
 import org.testng.annotations.Test;
 import org.testng.AssertJUnit;
 
+//All tests are set to pass except for method1_Test6()
+
 public class CS265_Lab1Test {
 
 	  @Test
