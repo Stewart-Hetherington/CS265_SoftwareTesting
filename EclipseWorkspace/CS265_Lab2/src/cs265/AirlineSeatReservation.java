@@ -1,3 +1,5 @@
+// AirlineSeatReservation.java provided by lecturer to test.
+
 package cs265;
 
 public class AirlineSeatReservation {
