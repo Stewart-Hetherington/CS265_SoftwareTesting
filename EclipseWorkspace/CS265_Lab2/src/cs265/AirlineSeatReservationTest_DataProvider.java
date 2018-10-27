@@ -11,11 +11,11 @@ public class AirlineSeatReservationTest_DataProvider {
 
 	private static Object [][] testData = new Object [][] {
 		// TestId        freeSeats  seatsRequired    expectedValue
-		{"method1_T1",     50,        75,       			false },
-		{"method1_T2",     50,        25,      				 true },
-		{"method1_T3",   -100,        25,      				false },
-		{"method1_T4",     50,      -100,       			false },
-		{"method1_T5",     50,       200,     				false },
+		{"method1_T1",     50,        75,       	false },
+		{"method1_T2",     50,        25,      		 true },
+		{"method1_T3",   -100,        25,      		false },
+		{"method1_T4",     50,      -100,       	false },
+		{"method1_T5",     50,       200,     		false },
 	};
 	@DataProvider(name="BVATesting")
 	public Object[][] getTestData() {
